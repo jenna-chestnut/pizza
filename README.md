@@ -5,7 +5,7 @@ This is just me practicing using github!
 ## More about me
 
 * 28 years old
-* New to coding but born a techie.
+* New to coding but born a techie
 * [GitHub profile](https://github.com/jenna-chestnut)
 * [Twitter](https://twitter.com/Jennabot5000)
 
